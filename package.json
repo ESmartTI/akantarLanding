@@ -1,0 +1,25 @@
+{
+  "name": "akantarkb.com",
+  "version": "1.0.0",
+  "description": "Proyecto AKantarKb.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianroserodev/akantarkb.com.git"
+  },
+  "author": "Sebastian Rosero Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastianroserodev/akantarkb.com/issues"
+  },
+  "homepage": "https://github.com/sebastianroserodev/akantarkb.com#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "live-server": "^1.2.1",
+    "page-flip": "^2.0.0"
+  }
+}
